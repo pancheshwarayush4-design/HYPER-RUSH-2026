@@ -1,0 +1,6 @@
+{
+  "name": "Hyper Rush",
+  "description": "High-octane 2D physics adventure racing with customizable vehicles, stunt physics, diverse worlds, interactive puzzles, and rewards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
